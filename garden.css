@@ -1,0 +1,22 @@
+body{
+    background-size:cover;
+    background-position:center;
+    text-align: center;
+}
+
+#heading{
+font-size:18;
+}
+
+#Back{
+font-size:18px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+#text{
+    font-family: 'Courier New', Courier, monospace;
+}   
